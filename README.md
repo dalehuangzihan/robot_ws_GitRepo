@@ -1,2 +1,3 @@
 # robot_ws_GitRepo
-Files from Hand Plus Robotics Pre-Internship Tasks
+Code for ROS and UR5 stuff (and flask website)
+Dependencies are not inlcuded.
